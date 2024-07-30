@@ -1,6 +1,6 @@
 # Ethereum Wallet
 
-A basic Ethereum wallet application that allows users to view their balance and send transactions using the Ethereum blockchain. This project is built using React, Ethers.js, and Webpack.
+A basic Ethereum wallet application that allows users to view their balance and send transactions using the Ethereum blockchain. This project is built using basic Javascript.
 
 ## Features
 
