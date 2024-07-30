@@ -27,12 +27,12 @@ async function sendFunds(to, amount) {
   console.log(`Transaction confirmed`);
 }
 
-// Main function
+
 async function main() {
   await getBalance();
 
-  // Uncomment to send funds
-  // await sendFunds('recipient_address', 'amount_in_eth');
+  
+  await sendFunds('recipient_address', 'amount_in_eth');
 }
 
 main().catch(console.error);
